@@ -3,6 +3,7 @@
     "version": "1.0.4",
     "slug": "smartthings-mqtt-bridge",
     "description": "This addon will install the latest version of the SmartThings MQTT Bridge by StJohnJohnson",
+    "arch": ["armv7"],
     "url": "https://github.com/stjohnjohnson/smartthings-mqtt-bridge",
     "startup": "before",
     "boot": "auto",
